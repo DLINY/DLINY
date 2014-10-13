@@ -74,5 +74,5 @@ int modular_exp(int a, int b, int n)
 		d = d * d % n;
 		if(bin[i] == 1) d = d * a % n;
 	}
-	return d;
+	return d;//ABOUT
 }

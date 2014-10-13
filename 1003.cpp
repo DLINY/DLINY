@@ -40,5 +40,5 @@ int main()
     free(P);
     free(A);
     
-    return 0;
+    return 0;//SAID
 }
