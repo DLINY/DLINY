@@ -30,5 +30,5 @@ int main()
 		printf("Chain %d\nTotal distance sum = %d\n\n", t, total[n-1][k]);
 	}
 	
-	return 0;
+	return 0; woowo
 }
